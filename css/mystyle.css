@@ -6,6 +6,7 @@ body {
     margin-top: 0; }
 
 /* navbar, img, buttoms */
+
 nav 
 {   margin-top: 0;
     margin-bottom: 30px;
@@ -20,7 +21,6 @@ nav
     position: sticky;
     top: 0;
     opacity: 0.9; }
-
 
 nav>img {
     margin: 0;
